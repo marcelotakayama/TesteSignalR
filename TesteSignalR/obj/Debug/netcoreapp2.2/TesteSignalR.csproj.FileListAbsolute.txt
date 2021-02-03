@@ -5,7 +5,6 @@ C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\bin\Debug\
 C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\bin\Debug\netcoreapp2.2\TesteSignalR.pdb
 C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\bin\Debug\netcoreapp2.2\TesteSignalR.Views.dll
 C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\bin\Debug\netcoreapp2.2\TesteSignalR.Views.pdb
-C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\obj\Debug\netcoreapp2.2\TesteSignalR.csprojAssemblyReference.cache
 C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\obj\Debug\netcoreapp2.2\TesteSignalR.csproj.CoreCompileInputs.cache
 C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\obj\Debug\netcoreapp2.2\TesteSignalR.RazorAssemblyInfo.cache
 C:\Users\mntakayama\Documents\Repositórios\TesteSignalR\TesteSignalR\obj\Debug\netcoreapp2.2\TesteSignalR.RazorAssemblyInfo.cs
